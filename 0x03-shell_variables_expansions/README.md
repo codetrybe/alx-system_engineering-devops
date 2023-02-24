@@ -1,2 +1,2 @@
-# Shell variables, Expansion
+# Shell, init files, variables and expansions
 
